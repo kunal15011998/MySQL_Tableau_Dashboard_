@@ -24,6 +24,6 @@ Dashboard Creation: I've crafted an intuitive interface that allows you to explo
 🔗 Interactivity: Engage with the dashboard to get a firsthand experience of my skills. Click, explore, and uncover the hidden gems within the data.
 
 
-🔗 Explore the Dashboard: Link to the Dashboard
+🔗 Explore the Dashboard: Link to the Dashboard https://public.tableau.com/app/profile/kunal.batsa/viz/MySQLTableauworkbook2/Dashboard1
 
 Discover the artistry of data-driven insights and the capabilities that make me stand out in the realm of MySQL and Tableau. Let's connect and discuss how my skills can elevate your data endeavors! 📈🔮
